@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-# Time
+# Feito por:
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/131824268?v=4" width=115><br><sub>Mike Kauê</sub>](https://github.com/mikekaue)
 | :---: |
